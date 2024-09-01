@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Jul 23 07:48:44 WAT 2024","Tue Jul 23 07:50:07 WAT 2024","83061","chrome","checkout.spec.js","","","","@checkout Verve (Failure - Insufficient Funds))",""
+"broken","Tue Jul 23 07:48:44 WAT 2024","Tue Jul 23 07:50:06 WAT 2024","82155","chrome","checkout.spec.js","","","","@checkout Successful Verve Card Checkout",""
+"broken","Tue Jul 23 07:48:44 WAT 2024","Tue Jul 23 07:50:06 WAT 2024","82574","chrome","checkout.spec.js","","","","@checkout Verve (Failure - No card Record)",""
+"failed","Tue Jul 23 07:48:44 WAT 2024","Tue Jul 23 07:50:06 WAT 2024","81661","chrome","checkout.spec.js","","","","@checkout Successful Visa Card Checkout",""
+"broken","Tue Jul 23 07:48:44 WAT 2024","Tue Jul 23 07:50:07 WAT 2024","82559","chrome","checkout.spec.js","","","","@checkout Verve (Failure - Timeout calling issuing bank)",""
+"passed","Tue Jul 23 07:46:08 WAT 2024","Tue Jul 23 07:46:14 WAT 2024","6198","chrome","merchantLogin.spec.js","","","","Valid Login Test",""
